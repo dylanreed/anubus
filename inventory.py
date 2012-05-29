@@ -11,6 +11,8 @@ class game:
 
 #player system
 class player:
+	
+	
 	@staticmethod
 	def controls():
 		print "What would you like to do?"
@@ -128,7 +130,8 @@ class inventory_sys:
 class movement_sys:
 	@staticmethod
 	def move():
-		print "Which way?"
+		print "You are in",map.current_room
+		print "Which way?", map.exits
 		direction = raw_input("> ")
 		if direction == "north":
 			movement_sys.north()
@@ -139,6 +142,7 @@ class movement_sys:
 		elif direction == "east":
 			movement_sys.east()
 		else:
+			print "What?"
 			player.controls()
 	@staticmethod
 	def north():
@@ -158,11 +162,29 @@ class movement_sys:
 		print "moving east"
 
 #rooms
-class room:
+class map:
 	exits = ['north','south','east','west']
+	current_room = ['room1']
 	@staticmethod
-	def exit():
-		print room1.exits
+	def room():
+		if current_room == room1:
+			map.exits.remove('north','south','east','west')
+			map.exits.append('north','south','east','west')
+		elif current_room == room2:
+			map.exits.remove('north','south','east','west')
+			map.exits.append('south')
+		elif current_room == room3:
+			map.exits.remove('north','south','east','west')
+			map.exits.append('east')
+		elif current_room == room4:
+			map.exits.remove('north','south','east','west')
+			map.exits.append('north')
+		elif cuttent_room == room5:
+			map.exits.remove('north','south','east','west')
+			map.exits.append('west')
+
+	
+
 
 	#def encounter():
 
