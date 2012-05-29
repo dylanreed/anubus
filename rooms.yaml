@@ -1,0 +1,45 @@
+rooms:
+    - name:    room1
+      descrip:    this is room one
+      items:    gun
+      north:    room2
+      east:    room3
+      south:    room4
+      west:    room5
+      monsters:    none
+
+    - name:    room2
+      descrip:    this is room two
+      items:    none
+      north:    none 
+      east:    none
+      south:    room1
+      west:    none
+      monsters:    none
+
+    - name:    room3
+      descrip:    this is room three
+      items:    knife
+      north:    none
+      east:    none
+      south:    none
+      west:    room1
+      monsters:    none
+
+    - name:    room4
+      descrip:    this is room four
+      items:    none
+      north:    room1
+      east:    none
+      south:    none
+      west:    none
+      monsters:    none
+
+    - name:    room5
+      descrip:    this is room five
+      items:    none
+      north:    none
+      east:    room1
+      south:    none
+      west:    none
+      monsters:    none
