@@ -1,4 +1,5 @@
 from sys import exit
+from rooms import *
 
 class game:
 	@staticmethod
@@ -35,8 +36,6 @@ class player:
 			game.start()
 		else:
 			game.end
-
-
 
 # inventory system
 class inventory_sys:
@@ -157,6 +156,24 @@ class movement_sys:
 	def east():
 		player.controls()
 		print "moving east"
+
+#rooms
+class room:
+	exits = ['north','south','east','west']
+	@staticmethod
+	def exit():
+		print room1.exits
+
+	#def encounter():
+
+	#def items():
+
+
+		
+
+		
+
+	
 
 game.start()
 
