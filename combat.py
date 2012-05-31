@@ -1,13 +1,16 @@
 import random
 
-def attack():
-	defense = random.randint(1,10)
-	print defense
-	attack_number = raw_input("Attack number? ")
-	if attack_number == defense:
-		print "hit"
-	else:
-		print 'miss'
-		attack()
+class combat:
+	armor = random.randint(1,10)
+	
 
-attack()
+	def attack():
+		attack_number = input("Attack number? ")
+		if attack_number == armor:
+			print "hit"
+			combat.attack()
+		else:
+			print 'miss'
+			combat.attack()
+
+combat.attack()
