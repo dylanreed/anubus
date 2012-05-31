@@ -1,4 +1,5 @@
-rooms:
+room1:
+
     - name:    room1
       descrip:    this is room one
       items:    gun
@@ -8,6 +9,7 @@ rooms:
       west:    room5
       monsters:    none
 
+room2:
     - name:    room2
       descrip:    this is room two
       items:    none
