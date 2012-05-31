@@ -43,6 +43,7 @@ class player:
 class inventory_sys:
 	# all possible items
 	master_inventory =['mask', 'knife', 'gun', 'cross', 'inventory_sys.current_inventoryninja']
+	master_inventory =['mask', 'knife', 'gun', 'cross', 'ninja']
 	current_inventory = []
 	def __init__():
 		print "let's go"
