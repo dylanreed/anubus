@@ -1,0 +1,453 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"cen",
+				"central_corridor"
+			],
+			[
+				"esca",
+				"escape_pod"
+			],
+			[
+				"laser",
+				"laser_weapon_armory"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"sta",
+				"staticmethod"
+			],
+			[
+				"invent",
+				"inventory_sys"
+			],
+			[
+				"room",
+				"room_two"
+			],
+			[
+				"room_",
+				"room_one"
+			],
+			[
+				"direction",
+				"direction"
+			],
+			[
+				"current",
+				"current_room"
+			],
+			[
+				"two",
+				"two"
+			],
+			[
+				"inv",
+				"inventory_list"
+			],
+			[
+				"in",
+				"inventory"
+			],
+			[
+				"mas",
+				"master_inventory"
+			],
+			[
+				"no",
+				"no_monster"
+			],
+			[
+				"were",
+				"were_wolf_death"
+			],
+			[
+				"were_wolf",
+				"were_wolf_death"
+			],
+			[
+				"zombie",
+				"zombie_death"
+			],
+			[
+				"oper",
+				"operating_room"
+			],
+			[
+				"store",
+				"store_room"
+			],
+			[
+				"pentagram",
+				"pentagram_chamber"
+			],
+			[
+				"furnace",
+				"furnace_room"
+			],
+			[
+				"coll",
+				"collapsed_room"
+			],
+			[
+				"res",
+				"research_lab"
+			],
+			[
+				"cree",
+				"creeky_hall"
+			],
+			[
+				"dinin",
+				"dining_room"
+			],
+			[
+				"charred",
+				"charred_room"
+			],
+			[
+				"ab",
+				"abandoned_room"
+			],
+			[
+				"creat",
+				"creature_type"
+			],
+			[
+				"under",
+				"underground_lake"
+			],
+			[
+				"servants",
+				"servants_quarters"
+			],
+			[
+				"stat",
+				"statuary_hall"
+			],
+			[
+				"wine",
+				"wine_celler"
+			],
+			[
+				"op",
+				"operating_room"
+			],
+			[
+				"org",
+				"organ_room"
+			],
+			[
+				"base",
+				"basement_landing"
+			],
+			[
+				"blo",
+				"bloody_room"
+			],
+			[
+				"col",
+				"collapsed_room"
+			],
+			[
+				"junk",
+				"junk_room"
+			],
+			[
+				"ju",
+				"junk_room"
+			],
+			[
+				"dini",
+				"dining_room"
+			],
+			[
+				"game",
+				"game_room"
+			],
+			[
+				"dusty",
+				"dusty_hall"
+			],
+			[
+				"charr",
+				"charred_room"
+			],
+			[
+				"cha",
+				"charred_room"
+			],
+			[
+				"entrance",
+				"entrance_hall"
+			],
+			[
+				"entran",
+				"entrance_hall"
+			],
+			[
+				"entrace",
+				"entrance_hall"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/JezzFluffy/Learning-to-Py/work/ftpscript/test.txt",
+		"/Users/JezzFluffy/Learning-to-Py/work/ftpscript/ftpscript.py",
+		"/Users/JezzFluffy/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/JezzFluffy/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/JezzFluffy/Learning-to-Py/lpthw/ex41.py",
+		"/Users/JezzFluffy/Learning-to-Py/haunted_house/start.py",
+		"/Users/JezzFluffy/Learning-to-Py/haunted_house/goodthings.py",
+		"/Users/JezzFluffy/Learning-to-Py/haunted_house/rooms.py",
+		"/Users/JezzFluffy/Learning-to-Py/haunted_house/monsters.py",
+		"/Users/JezzFluffy/Learning-to-Py/haunted_house/haunted_house.py",
+		"/Users/JezzFluffy/Learning-to-Py/haunted_house/death.py",
+		"/Users/JezzFluffy/Learning-to-Py/haunted_house/badthings.py",
+		"/Users/JezzFluffy/Learning-to-Py/haunted_house/about.html",
+		"/Users/JezzFluffy/Learning-to-Py/anubus/inventory.py",
+		"/Users/JezzFluffy/Learning-to-Py/anubus/combat.py",
+		"/Users/JezzFluffy/Learning-to-Py/anubus/rooms.py",
+		"/Users/JezzFluffy/Learning-to-Py/anubus/rooms.yaml",
+		"/Users/JezzFluffy/Learning-to-Py/anubus/roominfo.py",
+		"/Users/JezzFluffy/Learning-to-Py/anubus/readme.txt",
+		"/Users/JezzFluffy/Learning-to-Py/haunted_house/.gitignore",
+		"/Users/JezzFluffy/Learning-to-Py/lpthw/README.txt",
+		"/Users/JezzFluffy/Learning-to-Py/anubus/game.py",
+		"/Users/JezzFluffy/Learning-to-Py/anubus/player.py",
+		"/Users/JezzFluffy/Learning-to-Py/ex41.py",
+		"/Users/JezzFluffy/Learning-to-Py/anubus/current_inventory.py",
+		"/Users/JezzFluffy/Learning-to-Py/haunted_house/haunted_house.pyc",
+		"/Users/JezzFluffy/Learning-to-Py/anubus/inventory1.py",
+		"/Users/JezzFluffy/Learning-to-Py/ex39.py",
+		"/Users/JezzFluffy/Learning-to-Py/ex40.py",
+		"/Users/JezzFluffy/Learning-to-Py/haunted_house/README",
+		"/Users/JezzFluffy/Learning-to-Py/pygcurse/pygcurse.py",
+		"/Users/JezzFluffy/Learning-to-Py/pygcurse/demo_shadowtest.py",
+		"/Users/JezzFluffy/Learning-to-Py/pygcurse/demo_reversi.py",
+		"/Users/JezzFluffy/Learning-to-Py/pygcurse/demo_textboxtest.py",
+		"/Users/JezzFluffy/Learning-to-Py/dungeons_rpg/dungeon_rpg.py",
+		"/Users/JezzFluffy/Learning-to-Py/ngine/sideview_example.py",
+		"/Users/JezzFluffy/Learning-to-Py/ngine/sideview_objects.py",
+		"/Users/JezzFluffy/Learning-to-Py/ngine/sideview_scene.py",
+		"/Users/JezzFluffy/Learning-to-Py/ex35.py",
+		"/Users/JezzFluffy/Learning-to-Py/haunted_house/(first)It is a stormy night, lightning flashes and.py",
+		"/Users/JezzFluffy/Learning-to-Py/secondfloorrooms.py",
+		"/Users/JezzFluffy/Learning-to-Py/basementrooms.py",
+		"/Users/JezzFluffy/Learning-to-Py/test.py",
+		"/Users/JezzFluffy/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"rooms.py",
+			"ex41.py",
+			"rooms.py",
+			"inventory.py",
+			"badthings.py",
+			"",
+			"selection",
+			"badthings.py",
+			"haunted_house.py",
+			"monsters.py",
+			"haunted_house.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"East",
+			"EAST",
+			"east",
+			"West",
+			"north",
+			"south",
+			"South",
+			"North",
+			"west",
+			"corrider",
+			"]",
+			"[",
+			"inventory_sys.",
+			"control",
+			"\"four\"",
+			"\"two\"",
+			"\"three\"",
+			"\"one\"",
+			"\"\"",
+			"monsters.monsters.dead(",
+			"dead(",
+			"kind",
+			"type",
+			"haunted_house.dead(",
+			"haunted_house.dead",
+			"dead",
+			"monster()",
+			"creature(monster)",
+			"creature()",
+			" in monster",
+			"for",
+			"outside",
+			"dead",
+			"generic",
+			"You",
+			"servents",
+			"servants_quarters",
+			"servents"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"EAST",
+			"WEST",
+			"NORTH",
+			"SOUTH",
+			"NORTH",
+			"WEST",
+			"corridor",
+			"}",
+			"{",
+			"inventory",
+			"'four'",
+			"'two'",
+			"'three'",
+			"'one'",
+			"\"\"\"",
+			"\"\"\" \"\"\"",
+			"monsters.dead(",
+			"type",
+			"kind",
+			"dead(",
+			"dead",
+			"haunted_house.dead",
+			"monster(type)",
+			"monster()",
+			"creature(monster)",
+			"()",
+			"def"
+		],
+		"reverse": true,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/JezzFluffy/Learning-to-Py/basementrooms.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
