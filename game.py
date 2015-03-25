@@ -179,7 +179,7 @@ class map:
 		elif current_room == room4:
 			map.exits.remove('north','south','east','west')
 			map.exits.append('north')
-		elif cuttent_room == room5:
+		elif cuRRent_room == room5:
 			map.exits.remove('north','south','east','west')
 			map.exits.append('west')
 
